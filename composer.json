@@ -20,7 +20,7 @@
         "ext-session" : "*",
         "pimple/pimple" : "3.0.2",
         "eluceo/ical": "0.10.1",
-        "erusev/parsedown" : "1.6.0",
+        "erusev/parsedown" : "1.7.2",
         "jitamin/json-rpc" : "1.2.2",
         "jitamin/picodb" : "1.0.15",
         "jitamin/picofeed": "0.1.25",
